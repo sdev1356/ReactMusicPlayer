@@ -105,7 +105,7 @@ function Player(props) {
           </ul>
         </div>
 
-        {/* <h4>Lofi Music Player React </h4> */}
+      
       </div>
     </>
   );
